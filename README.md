@@ -1,9 +1,6 @@
 # transparent-window-unity
 allows you to make your unity window transparent on build 
-
-(note: this may look confusing but just copy and paste the script the rest is easy)
-
-(note2: unitys built in ui doesnt work for this i cant figure out why you will need to create your own)
+(note: unitys built in ui doesnt work for this i cant figure out why you will need to create your own)
 
 how to set up:
 1. create an empty game object and place the script on it
