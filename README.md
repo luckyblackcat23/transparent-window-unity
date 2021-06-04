@@ -7,4 +7,5 @@ how to set up:
 2. place the camera on the script in the inspector
 3. make the camera background fully black with 0 alpha
 4. go to edit->project settings->player->resolution and tick the Run In Background button(this doesnt have to be ticked but it will look alot better if it is)
-5. build the project and it should be transparent
+5. go to build settings > player and tick Use DXGI Flip Model Swapchain for D3D11
+6. build the project and it should be transparent
